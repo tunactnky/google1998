@@ -1,0 +1,23 @@
+.bgcolor1{
+    background-color: #7EE5DA;
+    display: inline-block;
+}
+
+.bgcolor2{
+    background-color: #70CCC2;
+    display: inline-block;
+}
+
+.bgcolor3{
+    background-color: #62B3AA;
+    display: inline-block;
+}
+
+.bggray{
+    background-color: #EEEEEE;
+}
+
+
+.textc{
+    text-align: center;
+}
